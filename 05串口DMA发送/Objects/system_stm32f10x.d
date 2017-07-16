@@ -1,0 +1,9 @@
+.\objects\system_stm32f10x.o: CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.c
+.\objects\system_stm32f10x.o: CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\objects\system_stm32f10x.o: D:\Dev\ARM-MDK\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\core_cm3.h
+.\objects\system_stm32f10x.o: D:\Dev\ARM-MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\system_stm32f10x.o: CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\objects\system_stm32f10x.o: .\User\stm32f10x_conf.h
+.\objects\system_stm32f10x.o: .\FWlib\inc\stm32f10x_gpio.h
+.\objects\system_stm32f10x.o: D:\Dev\ARM-MDK\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
+.\objects\system_stm32f10x.o: .\FWlib\inc\stm32f10x_rcc.h

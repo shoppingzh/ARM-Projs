@@ -1,0 +1,11 @@
+.\objects\misc.o: FWlib\src\misc.c
+.\objects\misc.o: .\FWlib\inc\misc.h
+.\objects\misc.o: D:\Dev\ARM-MDK\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
+.\objects\misc.o: D:\Dev\ARM-MDK\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\core_cm3.h
+.\objects\misc.o: D:\Dev\ARM-MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\misc.o: D:\Dev\ARM-MDK\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h
+.\objects\misc.o: D:\Dev\ARM-MDK\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x_conf.h
+.\objects\misc.o: .\FWlib\inc\stm32f10x_exti.h
+.\objects\misc.o: D:\Dev\ARM-MDK\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
+.\objects\misc.o: .\FWlib\inc\stm32f10x_gpio.h
+.\objects\misc.o: .\FWlib\inc\stm32f10x_rcc.h

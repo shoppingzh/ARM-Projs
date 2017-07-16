@@ -1,0 +1,11 @@
+.\objects\key.o: User\key.c
+.\objects\key.o: User\key.h
+.\objects\key.o: D:\Dev\ARM-MDK\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
+.\objects\key.o: D:\Dev\ARM-MDK\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\core_cm3.h
+.\objects\key.o: D:\Dev\ARM-MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\key.o: D:\Dev\ARM-MDK\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h
+.\objects\key.o: D:\Dev\ARM-MDK\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x_conf.h
+.\objects\key.o: .\FWlib\inc\stm32f10x_gpio.h
+.\objects\key.o: D:\Dev\ARM-MDK\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
+.\objects\key.o: .\FWlib\inc\stm32f10x_rcc.h
+.\objects\key.o: User\delay.h

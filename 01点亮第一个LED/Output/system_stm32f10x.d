@@ -1,0 +1,9 @@
+.\output\system_stm32f10x.o: CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.c
+.\output\system_stm32f10x.o: CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\output\system_stm32f10x.o: D:\Dev\ARM-MDK\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\core_cm3.h
+.\output\system_stm32f10x.o: D:\Dev\ARM-MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\system_stm32f10x.o: CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\output\system_stm32f10x.o: .\User\stm32f10x_conf.h
+.\output\system_stm32f10x.o: .\FWlib\inc\stm32f10x_gpio.h
+.\output\system_stm32f10x.o: D:\Dev\ARM-MDK\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
+.\output\system_stm32f10x.o: .\FWlib\inc\stm32f10x_rcc.h
